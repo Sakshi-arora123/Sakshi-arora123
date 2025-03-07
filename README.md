@@ -1,3 +1,4 @@
+![Logo](https://github.com/Sakshi-arora123/Sakshi-arora123/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Sakshi Arora</h1>
 <h3 align="center">I'm a full-stack developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I love building interactive web applications, optimizing performance, and solving real-world problems with clean and scalable code.</h3>
 
